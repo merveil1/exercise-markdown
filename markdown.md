@@ -18,8 +18,8 @@
 ## Voici un autre niveau de titre 
 
 ## Qui va me servir a présenter un lien
-[Voici mon lien Pokemon] (https://www.pokemon.com/fr)
-[Puis ensuite un autre lien Runescape] (https://oldschool.runescape.com/)
+[Voici mon lien Pokemon](https://www.pokemon.com/fr)
+[Puis ensuite un autre lien Runescape](https://oldschool.runescape.com/)
 
 ## Voici comment on imprime 'Hello World en JS!'
 console.log("Hello World")
@@ -28,5 +28,5 @@ console.log("Hello World")
 ## Le README.MD de ce projet ce trouve [ICI](/README.MD)
 ![Image de Markdown](https://upload.wikimedia.org/wikipedia/commons/d/d9/Markdown.png)
 
-![Image animée](https://dribbble.com/shots/1098887-thank-you-gif)
+![Image animée](https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif)
 
